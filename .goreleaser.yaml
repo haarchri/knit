@@ -20,6 +20,3 @@ checksum:
 
 snapshot:
   name_template: "dev"
-
-attests:
-  - artifacts: all
